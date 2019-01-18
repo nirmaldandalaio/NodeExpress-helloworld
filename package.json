@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "Simple starter for nodejs apps",
+  "main": "app.js",
+  "scripts": {
+      "dev": "node app.js"
+  },
+  "author": "Nirmal Dandala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
